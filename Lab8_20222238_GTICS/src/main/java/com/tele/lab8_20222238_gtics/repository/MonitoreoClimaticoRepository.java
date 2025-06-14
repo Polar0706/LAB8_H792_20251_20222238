@@ -1,0 +1,1 @@
+package com.tele.lab8_20222238_gtics.repository;
